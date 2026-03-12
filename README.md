@@ -67,8 +67,8 @@ The required geometric figure is now completed.
 
 
 ## Output:
-![WhatsApp Image 2026-03-10 at 10 49 24](https://github.com/user-attachments/assets/5a96280c-dad6-4f70-8688-0ea4d848116d)
-![WhatsApp Image 2026-03-10 at 10 49 25](https://github.com/user-attachments/assets/de92db3b-96eb-4cae-ae41-0b87fd764eff)
+<img width="977" height="770" alt="Screenshot 2026-03-12 134545" src="https://github.com/user-attachments/assets/9f5877ba-9804-4b87-b58b-483f557017f2" />
+
 
 
 
